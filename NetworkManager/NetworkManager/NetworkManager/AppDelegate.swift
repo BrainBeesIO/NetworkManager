@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NetworkManager
 //
-//  Created by Davit on 9/14/18.
+//  Created by BrainBeesIO on 9/14/18.
 //  Copyright © 2018 BrainBeesIO. All rights reserved.
 //
 
